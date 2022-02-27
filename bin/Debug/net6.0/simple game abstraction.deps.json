@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "simple game abstraction/1.0.0": {
+        "runtime": {
+          "simple game abstraction.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "simple game abstraction/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
