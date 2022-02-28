@@ -3,8 +3,7 @@ using simple_game_abstraction.entities;
 
 namespace simple_game_abstraction
 {
-
-    class Program
+       class Program
     {
         static void Main(string[] args)
         {
@@ -58,12 +57,17 @@ namespace simple_game_abstraction
                 Console.WriteLine("Type 1 or 2");
                 break;
             }
+
+            Console.ReadLine();
         
         
                 
 
             
         
-    }
-}}
+        }
+    }      
+}
+
+ 
 
