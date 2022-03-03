@@ -32,7 +32,6 @@ C:\Users\zkzr5\Documents\Programinhas\Bootcamp dio\Simple-RPG\bin\Debug\net6.0\s
 C:\Users\zkzr5\Documents\Programinhas\Bootcamp dio\Simple-RPG\bin\Debug\net6.0\simple game abstraction.deps.json
 C:\Users\zkzr5\Documents\Programinhas\Bootcamp dio\Simple-RPG\bin\Debug\net6.0\simple game abstraction.runtimeconfig.json
 C:\Users\zkzr5\Documents\Programinhas\Bootcamp dio\Simple-RPG\bin\Debug\net6.0\simple game abstraction.dll
-C:\Users\zkzr5\Documents\Programinhas\Bootcamp dio\Simple-RPG\bin\Debug\net6.0\ref\simple game abstraction.dll
 C:\Users\zkzr5\Documents\Programinhas\Bootcamp dio\Simple-RPG\bin\Debug\net6.0\simple game abstraction.pdb
 C:\Users\zkzr5\Documents\Programinhas\Bootcamp dio\Simple-RPG\obj\Debug\net6.0\simple game abstraction.csproj.AssemblyReference.cache
 C:\Users\zkzr5\Documents\Programinhas\Bootcamp dio\Simple-RPG\obj\Debug\net6.0\simple game abstraction.GeneratedMSBuildEditorConfig.editorconfig
@@ -43,3 +42,4 @@ C:\Users\zkzr5\Documents\Programinhas\Bootcamp dio\Simple-RPG\obj\Debug\net6.0\s
 C:\Users\zkzr5\Documents\Programinhas\Bootcamp dio\Simple-RPG\obj\Debug\net6.0\ref\simple game abstraction.dll
 C:\Users\zkzr5\Documents\Programinhas\Bootcamp dio\Simple-RPG\obj\Debug\net6.0\simple game abstraction.pdb
 C:\Users\zkzr5\Documents\Programinhas\Bootcamp dio\Simple-RPG\obj\Debug\net6.0\simple game abstraction.genruntimeconfig.cache
+C:\Users\zkzr5\Documents\Programinhas\Bootcamp dio\Simple-RPG\obj\Debug\net6.0\refint\simple game abstraction.dll

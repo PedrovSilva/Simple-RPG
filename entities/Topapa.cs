@@ -12,6 +12,8 @@ namespace simple_game_abstraction.entities
             this.MP = MP;
      }
 
+      
+    
      
                 
 
